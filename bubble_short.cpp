@@ -1,3 +1,5 @@
+
+// This program implements the bubble sort algorithm to sort an array of integers in ascending order.
 #include <bits/stdc++.h>
 using namespace std;
 
