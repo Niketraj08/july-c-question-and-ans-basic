@@ -1,3 +1,4 @@
+// This program demonstrates the sizes of various fundamental data types in C++.
 #include <iostream>
 using namespace std;
 int main()
