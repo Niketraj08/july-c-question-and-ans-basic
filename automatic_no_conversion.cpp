@@ -1,5 +1,5 @@
 // How does C++ handle automatic number conversions?
-
+// This program demonstrates automatic type conversion (also known as implicit type conversion or coercion) in C++.
 #include <iostream>
 using namespace std;
 int main() {
