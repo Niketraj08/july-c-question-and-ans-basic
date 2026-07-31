@@ -1,4 +1,5 @@
 // How C++ Handles Different Data Types.
+// This program demonstrates how C++ handles different data types and their conversions.
 #include <iostream>
 using namespace std ;
 
