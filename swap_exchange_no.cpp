@@ -1,4 +1,5 @@
 // swap Can you exchange numbers in C++ without a third variable?
+// This program demonstrates how to swap two numbers in C++ without using a third variable.
 #include <iostream>
 using namespace std ;
 
