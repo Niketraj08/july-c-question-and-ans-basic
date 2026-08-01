@@ -1,3 +1,4 @@
+// C++ program to traverse an array
 #include <iostream>
 using namespace std;
 
